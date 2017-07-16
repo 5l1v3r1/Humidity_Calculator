@@ -1,0 +1,10 @@
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\bin\Debug\Humidity_Calculator.exe.config
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\bin\Debug\Humidity_Calculator.exe
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\bin\Debug\Humidity_Calculator.pdb
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\bin\Debug\Humidity_Calculator.xml
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\obj\Debug\Humidity_Calculator.Form1.resources
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\obj\Debug\Humidity_Calculator.Resources.resources
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\obj\Debug\Humidity_Calculator.vbproj.GenerateResource.Cache
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\obj\Debug\Humidity_Calculator.exe
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\obj\Debug\Humidity_Calculator.xml
+C:\Users\UN4CKN0WL3Z\Desktop\VB\Humidity_Calculator\obj\Debug\Humidity_Calculator.pdb
